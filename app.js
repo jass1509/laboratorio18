@@ -1,5 +1,5 @@
-import multiplicar, { dividir } from './multiplicacionDivision.js';
-import { sumar, restar } from './sumaResta.js';
+import multiplicar, { dividir } from 'multiplicacionDivision.js';
+import { sumar, restar } from 'sumaResta.js';
 
 try {
   console.log('Suma:', sumar(10, 5));
